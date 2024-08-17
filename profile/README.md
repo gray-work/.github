@@ -11,7 +11,7 @@ Welcome to the official GitHub organization of รับงานเทาไม
 At รับงานเทาไม่ จำกัด (Gray Work), we leverage a modern and robust technology stack to build our products and services. Our primary technologies include:
 
 - **Go**: Used for building scalable, high-performance backend services. Go’s simplicity and efficiency make it ideal for cloud-native applications.
-- **Python**: Employed for data analysis, machine learning, and backend services. Python's versatility and extensive libraries make it a key part of our stack.
+- **TypeScript**: Employed for data analysis, machine learning, and backend services. TypeScript's versatility and extensive libraries make it a key part of our stack.
 - **React**: Our frontend framework of choice for developing dynamic and responsive user interfaces. React’s component-based architecture allows us to build reusable UI components efficiently.
 - **DevOps**: Utilizing tools and practices like Docker, Kubernetes, Jenkins, and CI/CD pipelines to ensure continuous integration and delivery, automate infrastructure, and enhance collaboration between development and operations teams.
 
